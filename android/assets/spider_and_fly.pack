@@ -1,0 +1,19 @@
+
+spider_and_fly.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+spider
+  rotate: false
+  xy: 1, 35
+  size: 640, 320
+  orig: 640, 320
+  offset: 0, 0
+  index: -1
+fly
+  rotate: false
+  xy: 1, 1
+  size: 512, 32
+  orig: 512, 32
+  offset: 0, 0
+  index: -1
